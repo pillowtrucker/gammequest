@@ -11,3 +11,4 @@ tmp_*
 !/open/README
 !/lib/data/config
 !/lib/log/README
+/lib/tmp/
